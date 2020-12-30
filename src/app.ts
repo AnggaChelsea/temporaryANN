@@ -21,4 +21,4 @@ app.use(express.urlencoded({ extended: false }));
 app.use(routes);
 
 app.listen(PORT, () => console.log(`server running on localhost://${PORT}`));
-// taskkill /F /IM node.exe
+// taskkill
