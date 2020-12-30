@@ -10,6 +10,9 @@
   },
   "author": "Angga, Neza &  Naufal",
   "license": "ISC",
+  "engines":{
+   "node":"12.19.0"
+ },
   "dependencies": {
     "@typegoose/typegoose": "^7.4.2",
     "@types/bcrypt": "^3.0.0",

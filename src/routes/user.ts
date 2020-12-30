@@ -7,10 +7,7 @@ import upload from "../helper/multer";
 import authentication from "../middlewares/authentication";
 import authorization from "../middlewares/authorization";
 import ExpressBrute from "../middlewares/ratelimiter";
-<<<<<<< HEAD
 
-=======
->>>>>>> 28cdd74aaf1ff2588924bb8210d5c03866b127af
 
 const router = Router();
 
